@@ -12,6 +12,8 @@ JavaScript | Node | npm | Jest
 ## Sources Referenced
 [Google](https://www.google.com) |
 [Jest](https://jestjs.io/) |
+[Node](https://nodejs.org/en/) |
+[npm](https://www.npmjs.com/package/inquirer)
 
 
 #### Made with ❤️ by Nou Vue
