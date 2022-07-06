@@ -1,0 +1,19 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator is a Node.js command-line app that will save all the information you entered and then generate an HTML webpage that displays each team member along with any information you added for them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyBoyee604/Team-Profile-Generator.git"
+  },
+  "author": "Nou Vue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyBoyee604/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/AndyBoyee604/Team-Profile-Generator#readme"
+}

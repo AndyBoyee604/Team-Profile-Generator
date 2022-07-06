@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 
 ## Purose
-This Team Profile Generator is a Node.js command-line app that will save all the information you entered and then generate an HTML webpage that displays each team member along with any information you added for them.
+Team Profile Generator is a Node.js command-line app that will save all the information you entered and then generate an HTML webpage that displays each team member along with any information you added for them.
 
 ## Built With 
 JavaScript | Node | npm | Jest
