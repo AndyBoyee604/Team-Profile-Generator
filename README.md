@@ -7,7 +7,7 @@ Team Profile Generator is a Node.js command-line app that will save all the info
 JavaScript | Node | npm | Jest
 
 ## Demo
-(Demo here)
+![](https://github.com/AndyBoyee604/Team-Profile-Generator/blob/main/assets/gif%20demo/Team%20Profile%20Genereator.gif)
 
 ## Sources Referenced
 [Google](https://www.google.com) |
