@@ -13,7 +13,7 @@ JavaScript | Node | npm | Jest
 [Google](https://www.google.com) |
 [Jest](https://jestjs.io/) |
 [Node](https://nodejs.org/en/) |
-[npm](https://www.npmjs.com/package/inquirer)
-
+[npm](https://www.npmjs.com/package/inquirer) |
+[Bootstrap](https://getbootstrap.com/)
 
 #### Made with ❤️ by Nou Vue
